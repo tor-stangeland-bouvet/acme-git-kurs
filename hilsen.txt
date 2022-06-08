@@ -6,3 +6,5 @@ Nå har vi vært igjennom merge-conflict.
 (Det var vel ikke så vanskelig?)
 
 Repoet deles nå på GitHub.
+
+Vi nærmer oss slutten nå 😌
