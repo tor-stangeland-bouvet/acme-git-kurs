@@ -1,2 +1,4 @@
 Hei ACME!
 På tide å lær git.
+
+Nå lærer vi om brancher.
