@@ -2,3 +2,5 @@ Hei ACME!
 På tide å lære git sammen.
 
 Nå lærer vi om brancher.
+Nå har vi vært igjennom merge-conflict. 
+(Det var vel ikke så vanskelig?)
