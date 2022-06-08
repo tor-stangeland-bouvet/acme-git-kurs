@@ -1,4 +1,4 @@
 Hei ACME!
-På tide å lær git sammen.
+På tide å lære git sammen.
 
 Nå lærer vi om brancher.
